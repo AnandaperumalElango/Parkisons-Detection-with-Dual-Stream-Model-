@@ -35,7 +35,7 @@ By fusing the learned features from both streams, the system enhances generaliza
 
 
 
-```
+---
      +-------------------+
      |   MRI Dataset     |
      +---------+---------+
@@ -55,7 +55,7 @@ Feature Fusion Layer
 |
 Classification
 
-```
+'''
 
 
 
