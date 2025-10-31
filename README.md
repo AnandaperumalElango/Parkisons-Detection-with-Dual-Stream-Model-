@@ -47,8 +47,6 @@ By fusing the learned features from both streams, the system enhances generaliza
                |
     +----------+----------+
     |                     |
-```
-
 Real Image Stream     Synthetic Image Stream
 |                     |
 +----------+----------+
@@ -76,7 +74,7 @@ Classification
 | Component | Framework / Library |
 |------------|--------------------|
 | Language | Python |
-| Deep Learning | TensorFlow / Keras |
+| Deep Learning | Pytorch |
 | Data Handling | NumPy, Pandas |
 | Visualization | Matplotlib, Seaborn |
 | Image Processing | OpenCV |
