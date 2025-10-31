@@ -11,7 +11,7 @@
 
 ---
 
-## 📘 Overview
+# 📘 Overview
 
 This repository contains the implementation of the research work **“Enhancing Parkinson’s Disease Detection with a GAN-CNN Hybrid Dual Stream Model.”**  
 The proposed model combines **Generative Adversarial Networks (GANs)** and **Convolutional Neural Networks (CNNs)** to improve the diagnostic accuracy of Parkinson’s Disease (PD) from MRI images.
@@ -21,7 +21,7 @@ By fusing the learned features from both streams, the system enhances generaliza
 
 ---
 
-## 🧩 Key Features
+# 🧩 Key Features
 
 - 🧬 Dual-stream design combining real and synthetic MRI data.  
 - ⚙️ GAN for data augmentation to overcome class imbalance.  
@@ -31,9 +31,9 @@ By fusing the learned features from both streams, the system enhances generaliza
 
 ---
 
-## 🧠 Model Architecture
+# 🧠 Model Architecture
 
-```
+
 
 ```
      +-------------------+
@@ -57,9 +57,9 @@ Classification
 
 ```
 
----
 
-## 🧪 Methodology
+
+# 🧪 Methodology
 
 1. **Data Preprocessing:** Normalize and resize MRI images.  
 2. **GAN Training:** Generate high-quality synthetic MRI data.  
@@ -69,7 +69,7 @@ Classification
 
 ---
 
-## 🧰 Technologies Used
+# 🧰 Technologies Used
 
 | Component | Framework / Library |
 |------------|--------------------|
@@ -82,7 +82,7 @@ Classification
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```
 
